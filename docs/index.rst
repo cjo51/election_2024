@@ -11,4 +11,4 @@ Welcome to My Project's Documentation
 Introduction
 ============
 
-Welcome to the documentation for My Project. This guide provides information on how to install and use the project.
+Welcome to the documentation for My Project. This guide provides information on how to install and use the project. I hope you enjoy.
