@@ -49,6 +49,7 @@ nbsphinx_execute_arguments = [
     "--InlineBackend.rc={'figure.dpi': 96}",
 ]
 
+html_static_path = ['docs/_static']
 
 # Disable section numbering
 secnumber_suffix = ''  # No suffix means no section numbers

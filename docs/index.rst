@@ -1,5 +1,9 @@
 Welcome to My Project's Documentation
 =====================================
+.. image:: _static/ge_logo.png
+   :alt: UK General Election across Big Ben
+   :width: 300px   # Optional: Adjust width
+   :align: center  # Optional: Center the image
 
 .. toctree::
    :maxdepth: 2
