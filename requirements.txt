@@ -1,0 +1,14 @@
+#Data Loading
+kaggle==1.6.17
+click==8.1.7
+
+
+#Data Manipulation
+pandas==2.2.2
+
+#Documentation
+sphinx==7.3.7
+sphinx_rtd_theme==2.0.0
+nbsphinx==0.9.5
+myst-parser==4.0.0
+sphinx_gallery==0.18.0
